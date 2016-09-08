@@ -1,0 +1,4 @@
+float bearing
+float size
+float x
+float y

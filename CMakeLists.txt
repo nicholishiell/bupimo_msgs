@@ -52,6 +52,8 @@ add_message_files(
   ZumoProximities.msg
   Obstacle.msg
   ObstacleArray.msg
+  Blob.msg
+  BlobArray.msg
 )
 
 ## Generate services in the 'srv' folder
