@@ -54,6 +54,7 @@ add_message_files(
   ObstacleArray.msg
   Blob.msg
   BlobArray.msg
+  VelocityCommand.msg
 )
 
 ## Generate services in the 'srv' folder
